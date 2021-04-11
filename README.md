@@ -5,7 +5,7 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 * Andres David Rodríguez Soler
 
-##Parte 1
+## Parte 1
 
 Para el primer laboratorio de Electrónica digital 1 se procede a realizar un sumador que consiste en tres entradas de 1 bit que serán adicionadas para así obtener una salida. Para este procedimiento se hace uso de la herramienta Quartus de Intel. Aquí se crea un proyecto, el cual corresponderá al sumador. En este proyecto se introduce el código funcional del sumador:
 ```
@@ -57,7 +57,7 @@ En esta ventana de ondas se realiza la prueba del código mediante las ondas o s
 Con las ondas se comprueba que el sumador hace el procedimiento de manera correcta. 
 
 
-##Parte 2
+## Parte 2
 
 Para la segunda parte de este primer laboratorio, se requiere realizar nuevamente un sumador, pero esta vez de 4 bits. Para lograr esto, se hace uso del código anterior, el del sumador de 1 bit, ya que a partir de este, y de manera escalonada, se puede lograr esta suma. Para este nuevo proyecto, se crea un nuevo archivo, y se introduce el siguiente código:
 ```
